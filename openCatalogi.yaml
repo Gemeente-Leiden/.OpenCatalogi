@@ -15,3 +15,4 @@ contact:
 # Each item refers to the repository URL of the software
 softwareUsed:
   - 'https://github.com/OpenCatalogi/OpenCatalogiBundle'
+catalogusAPI: 'opencatalogi-leiden.commonground.nu'
