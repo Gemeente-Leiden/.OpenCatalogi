@@ -1,0 +1,17 @@
+openCatalogiYmlVersion: "0.2"
+
+# The official name of the public organization
+name: 'Gemeente Leiden'
+
+# The official website of the public organization
+website: 'https://gemeente.leiden.nl/'
+
+# The contact details of the public organization
+contact:
+  email: 'contact@publicorganization.com' # Public contact email
+  phone: '+1234567890' # Public contact phone number
+
+# List of software the public organization uses
+# Each item refers to the repository URL of the software
+softwareUsed:
+  - 'https://github.com/OpenCatalogi/OpenCatalogiBundle'
