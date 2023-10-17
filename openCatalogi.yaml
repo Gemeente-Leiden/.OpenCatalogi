@@ -1,40 +1,16 @@
-openCatalogiYmlVersion: "0.2"
-
-# The official name of the public organization
-name: 'Gemeente Leiden'   # for example  name: 'Gemeente Rotterdam'
-
-# The official website of the public organization
-website: 'https://gemeente.leiden.nl'    # for example  website: 'https://www.rotterdam.nl'
-
-# The (optional) location of your own open catalogi installation
-catalogusAPI: "'opencatalogi-leiden.commonground.nu"
-
-# The contact details of the public organization
+catalogusAPI: '''opencatalogi-leiden.commonground.nu'
 contact:
-  email: 'a.nieuwenhuize@leiden.nl' # Public contact email
-  phone: '+1234567890' # Public contact phone number
-
-# List of software the public organization owns. keep in mind that owns dosn't automatically means maintained
-# Each item refers to the repository URL of the software
+  email: a.nieuwenhuize@leiden.nl
+  phone: '+1234567890'
+description: Gemeente Leiden
+logo: https://avatars.githubusercontent.com/u/130759437?v=4
+name: Gemeente-Leiden
+nl: {}
+openCatalogiYmlVersion: '0.2'
 softwareOwned:
-  - 'https://github.com/Gemeente-Leiden/software1'
-  - 'https://github.com/Gemeente-Leiden/software2'
-  
-# List of software the public organization uses
-# Each item refers to the repository URL of the software
+- https://github.com/Gemeente-Leiden/software1
+- https://github.com/Gemeente-Leiden/software2
 softwareUsed:
-  - 'https://github.com/OpenCatalogi/OpenCatalogiBundle'
-
-# List of software the public organization supports
-# Each item is a maintenance object representing the support provided for a software
-#softwareSupported:
-#  - software: 'https://github.com/organization/software2'
-#    type: 'maintenance' # The type of support provided
-#    contact:
-#      email: 'contact@publicorganization.com' # Public contact email
-#      phone: '+1234567890' # Public contact phone number
-#  - software: 'https://github.com/organization/software3'
-#    type: 'saas' # The type of support provided
-#    contact:
-#      email: 'contact@publicorganization.com' # Public contact email
-#      phone: '+1234567890' # Public contact phone number
+- https://github.com/OpenCatalogi/OpenCatalogiBundle
+url: Gemeente-Leiden
+website: https://gemeente.leiden.nl
