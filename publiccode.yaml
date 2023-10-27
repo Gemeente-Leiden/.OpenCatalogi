@@ -1,4 +1,4 @@
-name: .OpenCatalogi
+name: OpenCatalogi
 nl: {}
 organisation:
   description: Gemeente Leiden
@@ -6,4 +6,4 @@ organisation:
   name: Gemeente-Leiden
   url: Gemeente-Leiden
 releaseDate: '2023-10-27'
-url: https://github.com/Gemeente-Leiden/.OpenCatalogi
+url: https://github.com/Gemeente-Leiden/OpenCatalogi
